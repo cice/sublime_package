@@ -1,0 +1,3 @@
+[
+	{ "keys": ["alt+tab"], "command": "focus_next_group" }
+]
