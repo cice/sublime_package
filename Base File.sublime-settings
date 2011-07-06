@@ -4,5 +4,6 @@
 	"translate_tabs_to_spaces": true,
 	"use_tab_stops": true,
   "trim_trailing_white_space_on_save": true,
-  "font_face": "Bitstream Vera Sans Mono"
+  "font_face": "Bitstream Vera Sans Mono",
+  "save_on_focus_lost": true
 }

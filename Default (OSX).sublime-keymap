@@ -1,3 +1,4 @@
 [
-	{ "keys": ["alt+tab"], "command": "focus_next_group" }
+    { "keys": ["alt+tab"], "command": "focus_next_group" },
+    { "keys": ["ctrl+shift+'"], "command": "toggle_quotes" }
 ]
